@@ -1,2 +1,2 @@
 # downloadFromSra
-Containerized NextFlow Workflow to Easily Down Sra Files
+Containerized NextFlow Workflow to Easily Download Sra Files
